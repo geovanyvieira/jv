@@ -1,0 +1,33 @@
+body{
+    background-image: url("./img/74302.jpg");
+    text-align: center;
+}
+div{
+    align-items: center;
+
+}
+.button {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 115px 200px;
+    background-color: #4CAF50;
+  }
+
+  .button2{
+  
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 115px 200px;
+        background-color: red;
+      
+  }
